@@ -1,23 +1,8 @@
 SERVERALERT:
 
-             |cFFFFD700Historia de|r |cFFFF7C00World|r |cFF00FF00of|r |cFF00D1FFWarcraft|r
-----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_ragnaros:25:25:0:-5|t |cFF00B4FFÉpoca Clásica (Vanilla)|r
-|TInterface\ICONS\achievement_arena_2v2_1:18:18:0:-8|t |cFFAAD372- Azeroth se recupera de las Guerras Orcas|r
-|TInterface\ICONS\achievement_bg_winwsg:18:18:0:-8|t |cFFAAD372- La Horda y la Alianza en una frágil paz|r
-|TInterface\ICONS\achievement_boss_onyxia:18:18:0:-8|t |cFFAAD372- Amenazas: Ragnaros, Onyxia, Nefarian|r
-----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_illidan:25:25:0:-5|t |cFFFF7C00The Burning Crusade|r
-|TInterface\ICONS\spell_arcane_teleportorgrimmar:18:18:0:-8|t |cFFFFB347- El Portal Oscuro se reabre|r
-|TInterface\ICONS\achievement_boss_kiljaedan:18:18:0:-8|t |cFFFFB347- Legión Ardiente invade|r
-|TInterface\ICONS\achievement_bg_masterofallbgs:18:18:0:-8|t |cFFFFB347- Elfos de Sangre y Draenei se unen|r
-----------------------------------------------------------
-|TInterface\ICONS\achievement_boss_lichking:25:25:0:-5|t |cFF00D1FFWrath of the Lich King|r
-|TInterface\ICONS\achievement_zone_icecrown_01:18:18:0:-8|t |cFFA6D8FF- Arthas despierta como Rey Exánime|r
-|TInterface\ICONS\spell_deathknight_iceboundfortitude:18:18:0:-8|t |cFFA6D8FF- Caballeros de la Muerte invaden|r
-|TInterface\ICONS\inv_helmet_133:18:18:0:-8|t |cFFA6D8FF- Batalla por la Corona de Hielo|r
-----------------------------------------------------------
-|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FF¿Listo para tu aventura?|r
-|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Únete a nuestra comunidad:|r 
-            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Web: https:// | 
-            |TInterface\ICONS\inv_misc_groupneedmore:18:18:0:-3|t Discord: https://discord |
+             |cFFFFD700Welcome to|r |cFFFF7C00BasedWoW|r |cFFAAD372Classic 1.21.1.
+
+|TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFInfo|r
+|TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80ÚnOur communities:|r 
+            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Website: https://basedwow.com
+            |TInterface\ICONS\inv_misc_groupneedmore:18:18:0:-3|t Discord: https://discord.com/basedwow
